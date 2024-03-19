@@ -1,0 +1,1702 @@
+.font-mdm {
+  font-size: 48px;
+  line-height: 1.4;
+}
+
+.font-blue {
+  color: #133774;
+}
+
+h1,
+h2,
+h3,
+h4,
+h5
+ {
+  margin-top: 0px;
+  margin-bottom: 10px;
+}
+
+h6 {
+  margin-top: 0px;
+  margin-bottom: 8px;
+}
+
+#hotelic-site-main-body {
+  background-color: #fff;
+  margin: 0;
+}
+
+.title.section-title {
+  font-size: 56px;
+  margin-bottom: 10px;
+}
+
+.hotelic-title-lg {
+  font-size: 65px;
+}
+
+.hotelic-title-md {
+  font-size: 48px;
+}
+
+.hotelic-title-sm {
+  font-size: 24px;
+}
+
+.hotelic-body-class a {
+  color: #1D2A3B;
+}
+.hotelic-body-class a:hover {
+  color: #F15D30;
+}
+
+img {
+  height: auto;
+  max-width: 100%;
+}
+
+article {
+  padding: 20px 20px;
+  background: #fff;
+  border: 1px solid #f4f4f4;
+  border-radius: 8px;
+  box-shadow: 0px 0px 24px 5px #E0E8EE;
+}
+
+.hotelic-center {
+  text-align: center;
+}
+
+.border-rds-4 {
+  border-radius: 4px;
+}
+
+.tft-flex {
+  display: flex;
+  flex-wrap: wrap;
+}
+
+.hotelic-f-sb {
+  justify-content: space-between;
+  align-items: center;
+}
+
+.hotelic-f-cg-40 {
+  column-gap: 40px;
+}
+
+.hotelic-f-rw-40 {
+  row-gap: 40px;
+}
+
+.hotelic-f-cg-20 {
+  column-gap: 20px;
+}
+
+.hotelic-f-rw-20 {
+  row-gap: 20px;
+}
+
+.hotelic-f-rw-2 {
+  row-gap: 2%;
+}
+
+.hotelic-f-cg-2 {
+  column-gap: 2%;
+}
+
+.align-center {
+  align-items: center;
+}
+
+.hotelic-card-default {
+  background: #fff;
+  box-shadow: 0px 4px 20px rgba(29, 42, 59, 0.1);
+  border-radius: 8px;
+}
+
+.justify-sp-between {
+  justify-content: space-between;
+}
+
+/* Row Collumn And container TF */
+.hotelic-container {
+  margin: 0 auto;
+  width: 1240px;
+}
+
+.tft-container-flex{
+  display: flex;
+  flex-wrap: wrap;
+}
+
+.justify-content-end {
+  justify-content: flex-end;
+}
+
+.justify-content-start {
+  justify-content: flex-start;
+}
+
+.justify-content-center {
+  justify-content: center;
+}
+
+.hotelic-block {
+  display: block;
+}
+
+.clmn-gap-10 {
+  column-gap: 10px;
+}
+
+.row-gap-10 {
+  row-gap: 10px;
+}
+
+.hotelic-container-grid {
+  display: grid;
+}
+
+.tft-grid-clmn-4 {
+  grid-template-columns: repeat(4, 1fr);
+}
+
+.hotelic-d-grid {
+  display: grid;
+}
+
+.hotelic-d-grid-6-4 {
+  display: grid;
+  grid-template-columns: 60% 40%;
+}
+
+.tft-grid-gup {
+  grid-gap: 20px;
+}
+
+ul {
+  margin: 0px;
+  padding: 0px;
+}
+
+input#submit {
+  background: #F15D30;
+  padding: 17px 35px;
+  color: #fff;
+}
+
+.hotelic-padding-40 {
+  padding: 0px 40px;
+}
+
+.hotelic-padding-20 {
+  padding: 0px 40px;
+}
+
+h2.entry-title {
+  font-size: 32px;
+  text-decoration: none;
+}
+
+.hotelic-slide-default button.slick-arrow {
+  height: 45px;
+  width: 45px;
+  border-radius: 2px;
+  transition: all 0.3s ease;
+  border: 2px solid rgba(0, 0, 0, 0);
+  color: #fff;
+  font-size: 16px;
+}
+.hotelic-slide-default button.slick-arrow:hover, .hotelic-slide-default button.slick-arrow:focus {
+  background: transparent;
+  color: #fff;
+  opacity: 0.3s;
+}
+
+.tf-pagination {
+  text-align: right;
+}
+.tf-pagination a.page-numbers {
+  font-size: 16px;
+  font-weight: 600;
+  color: #1D2A3B;
+  margin: 4px 2px;
+  padding: 5px;
+  text-decoration: none;
+}
+.tf-pagination a.page-numbers i {
+  color: #1D2A3B;
+}
+.tf-pagination a.page-numbers i:hover {
+  color: #F15D30;
+}
+.tf-pagination span.page-numbers.current {
+  color: #F15D30;
+  font-weight: 600;
+}
+
+.hotelic-p-color {
+  color: #F15D30;
+}
+
+.hotelic-p-bgcolor {
+  color: #F15D30;
+}
+
+.hotelic-mb-24 {
+  margin-bottom: 24px;
+}
+
+.hotelic-mb-60 {
+  margin-bottom: 60px;
+}
+
+.bttn {
+  padding: 17px 35px;
+  text-decoration: none;
+  border-radius: 4px;
+  font-size: 18px;
+  font-weight: 700;
+}
+
+.hotelic-bttn {
+  display: inline-block;
+  background: #F15D30;
+  color: #fff;
+}
+.hotelic-bttn:hover {
+  background: #f94700;
+}
+
+.hotelic-bttn-primary {
+  display: inline-block;
+  background: #F15D30;
+  color: #fff;
+}
+.hotelic-bttn-primary:hover {
+  background: #f94700;
+}
+
+.hotelic-sidebar .wp-block-search__button {
+  padding: 11px 28px;
+  text-decoration: none;
+  border-radius: 4px;
+  font-size: 18px;
+  font-weight: 600;
+  display: inline-block;
+  background: #F15D30;
+  color: #fff;
+  margin: 0;
+}
+.hotelic-sidebar .wp-block-search__button:hover {
+  background: #f94700;
+  cursor: pointer;
+}
+.hotelic-sidebar .wp-block-search__input {
+  padding: 10px !important;
+}
+
+.search .search-submit {
+  padding: 11px 28px;
+  text-decoration: none;
+  border-radius: 4px;
+  font-size: 18px;
+  font-weight: 600;
+  display: inline-block;
+  background: #F15D30;
+  color: #fff;
+  margin: 0;
+}
+.search .search-submit:hover {
+  background: #f94700;
+  cursor: pointer;
+}
+.search .search-submit {
+  padding: 10px !important;
+}
+.search input.search-field {
+  padding: 10px;
+}
+
+
+.availability-btn-area a {
+  width: max-content;
+}
+
+.availability-btn-area .tf_button {
+  color: #fff;
+}
+
+.hotelic-theme-transparent-header {
+  position: absolute;
+  left: 0;
+  right: 0;
+  z-index: 999;
+}
+.hotelic-theme-transparent-header .sub-menu a {
+  color: #1D2A3B;
+}
+.hotelic-theme-transparent-header a i {
+  color: #fff;
+}
+
+.has_stiky {
+  transition-timing-function: ease-in-out;
+  transition: 0.3s;
+}
+
+.has_stiky.navbar-shrink {
+  position: fixed;
+  width: 100%;
+  top: 0;
+  transition-timing-function: ease-in-out;
+  transition: 0.6s;
+  z-index: 9999;
+  border-bottom: 1px solid rgba(221, 221, 221, 0.24);
+  box-shadow: 0px 16px 32px rgba(0, 0, 0, 0.08);
+}
+
+.has_stiky.navbar-shrink .site--brand-logo {
+  padding: 6px 0px;
+  transition-timing-function: ease-in-out;
+  transition: 0.6s;
+}
+
+.hotelic-main-header-wrapper {
+  min-height: 97px;
+  padding-top: 20px;
+  padding-bottom: 20px;
+  transition: 0.3s;
+  display: grid;
+  grid-template-columns: auto auto;
+  align-items: center;
+  grid-column-gap: 20px;
+  overflow-wrap: anywhere;
+}
+.hotelic-main-header-wrapper .site--brand-logo {
+  transition: 0.6s;
+  transition-timing-function: ease-in-out;
+}
+.hotelic-main-header-wrapper .site--brand-logo img {
+  max-width: 140px;
+}
+.hotelic-main-header-wrapper nav {
+  display: block;
+  height: 100%;
+}
+
+.hotelic-header-default .hotelic-header-right .tf-search-field {
+  position: absolute;
+  right: 0;
+  top: 24px;
+}
+
+.site--brand-logo a {
+  text-decoration: none;
+  color: #1D2A3B;
+  font-size: 36px !important;
+  font-weight: 700;
+  display: flex;
+  line-height: 1.3;
+}
+
+.tft-site-navigation ul {
+  list-style: none;
+  margin: 0;
+  padding: 0;
+  position: relative;
+  justify-content: right;
+}
+.tft-site-navigation > ul > li:last-child a{
+  padding-right: 0px !important;
+}
+.tft-site-navigation ul li a {
+  padding: 18px;
+  font-size: 18px;
+  text-decoration: none;
+  font-weight: 500;
+}
+.tft-site-navigation ul li a:hover {
+  color: #F15D30;
+  transition: all 0.3s ease;
+}
+.tft-site-navigation ul li.page_item {
+  padding: 4px 0px;
+}
+.tft-site-navigation .page_item_has_children {
+  position: relative;
+}
+.tft-site-navigation .page_item_has_children ul.children {
+  width: 240px;
+  background: #fff;
+  position: absolute;
+  top: 100%;
+  z-index: 99999;
+  box-shadow: 0 4px 10px -2px rgba(0, 0, 0, 0.1);
+  padding: 10px 0px;
+  visibility: hidden;
+  border-radius: 4px;
+}
+.tft-site-navigation .page_item_has_children ul.children ul.children {
+  left: 100%;
+  top: 0;
+}
+.tft-header-desktop .tft-site-navigation .page_item_has_children:hover > ul.children {
+  visibility: visible;
+}
+.tft-site-navigation .page_item_has_children > a:after {
+  content: "\f078";
+  display: inline-block;
+  font-size: 0.6rem;
+  font-weight: bold;
+  text-rendering: auto;
+  margin-left: 10px;
+  line-height: normal;
+  font-family: "Font Awesome 5 Free";
+}
+
+.tft-site-navigation ul li ul li a {
+  color: #222 !important;
+}
+
+.hotelic-header-right {
+  column-gap: 10px;
+  position: relative;
+}
+.hotelic-header-right .tf-search-field {
+  position: absolute;
+  right: 0;
+  top: 24px;
+}
+
+.hotelic-header-left {
+  min-width: 140px;
+}
+
+.hotelic-header-right ul {
+  padding: 0;
+  margin: 0;
+}
+.hotelic-header-right ul li {
+  list-style: none;
+}
+.hotelic-header-right a {
+  text-decoration: none;
+  color: #fff;
+  font-weight: 500;
+  transition: all 0.3s ease;
+}
+.hotelic-header-right a:hover {
+  color: #F15D30;
+  transition: all 0.3s ease;
+}
+.hotelic-header-right .hotelic-header-search a {
+  font-size: 18px;
+}
+
+.hotelic-header-search .tf-search-field {
+  width: 200px;
+  background: rgba(252, 252, 252, 0.87);
+  border: none;
+  font-size: 16px;
+  color: rgba(29, 42, 59, 0.8);
+  border-radius: 4px;
+  padding: 14px 10px;
+  display: inline-block;
+  border: 1px solid rgba(51, 51, 51, 0.2);
+}
+.hotelic-header-search :focus {
+  outline: none;
+}
+
+.hotelic-header-search-form {
+  opacity: 0;
+  visibility: hidden;
+  transition: all 0.3s ease;
+}
+.sub-menu.show {
+  display: block !important;
+}
+.active-search .hotelic-header-search-form {
+  opacity: 1;
+  visibility: visible;
+  transition: all 0.3s ease;
+}
+
+.hotelic-search-icon {
+  width: 16px;
+  height: 16px;
+}
+
+a.search-icon-close {
+  display: none;
+}
+
+.active-search-icon a.search-icon-close {
+  display: block;
+}
+.active-search-icon a.search-icon-slide {
+  display: none;
+}
+
+.hotelic-header-default {
+  background: #fff;
+}
+.hotelic-header-default ul li a {
+  color: #1D2A3B;
+}
+.hotelic-header-default .hotelic-header-right .hotelic-header-search a {
+  color: #1D2A3B;
+}
+
+.admin-bar .navbar-shrink {
+  top: 32px;
+}
+
+.tft-site-navigation .menu-item-has-children, .tft-site-navigation .page_item_has_children {
+  position: relative;
+}
+.tft-site-navigation .menu-item-has-children > a:after {
+  content: "\f078";
+  display: inline-block;
+  font-size: 0.6rem;
+  font-weight: bold;
+  text-rendering: auto;
+  margin-left: 10px;
+  line-height: normal;
+  font-family: "Font Awesome 5 Free";
+}
+
+.hotelic-blury-header {
+  background: rgba(255, 255, 255, 0.24);
+  box-shadow: 0px 16px 32px rgba(0, 0, 0, 0.08);
+  backdrop-filter: blur(12px);
+  position: absolute;
+  z-index: 999;
+  width: 100vw;
+}
+
+.hotelic-blury-header * {
+  color: #fff !important;
+}
+
+.hotelic-theme-transparent-header .tft-site-navigation ul li a {
+  color: #fff;
+}
+
+.hotelic-full-width {
+  width: 100% !important;
+}
+
+.hotelic-sidebar ul {
+  padding: 0;
+}
+
+.hotelic-sidebar-widget .hotelic-single-post {
+  margin-bottom: 20px;
+}
+.hotelic-sidebar-widget h5 {
+  font-size: 16px;
+  font-weight: 600;
+  margin-bottom: 10px;
+}
+.hotelic-sidebar-widget .hotelic-single-post-inner {
+  display: flex;
+  column-gap: 15px;
+}
+.hotelic-sidebar-widget .post_img {
+  flex-basis: 90px;
+  height: 80px;
+}
+.hotelic-sidebar-widget .hotelic-post-details {
+  flex-basis: 70%;
+}
+.hotelic-sidebar-widget .post_img img {
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+  border-radius: 4px;
+}
+
+.no-comments.wp-block-latest-comments {
+  color: #1D2A3B;
+}
+
+p.wp-block-tag-cloud {
+  display: flex;
+  align-items: center;
+  flex-wrap: wrap;
+  column-gap: 20px;
+  row-gap: 20px;
+}
+p.wp-block-tag-cloud a.tag-cloud-link {
+  font-size: 14px !important;
+  background-color: #F15D30;
+  color: #fff;
+  padding: 8px 24px;
+  border-radius: 4px;
+}
+p.wp-block-tag-cloud a.tag-cloud-link:hover {
+  background-color: #f94700;
+}
+
+ul.wp-block-categories-list.wp-block-categories a {
+  font-size: 18px;
+  padding: 5px 0px;
+}
+
+/* Footer Style */
+.hotelic-site-footer {
+  padding-top: 10px;
+  background: #fff;
+}
+.hotelic-site-footer .site--brand-logo {
+  margin-bottom: 24px;
+}
+.hotelic-site-footer .wp-block-group__inner-container h2 {
+  font-size: 20px;
+  margin-bottom: 28px;
+  margin-top: 0px;
+}
+.hotelic-site-footer .hotelic-footer-inner {
+  padding: 70px 0px;
+  gap: 20px;
+}
+.hotelic-site-footer .hotelic-footer-social-link {
+  margin-top: 15px;
+}
+.hotelic-site-footer ul {
+  padding: 0px;
+}
+.hotelic-site-footer ul li {
+  list-style: none;
+  display: flex;
+  align-items: center;
+  column-gap: 8px;
+  margin: 8px 0px;
+}
+.hotelic-site-footer ul li a {
+  text-decoration: none;
+  font-weight: 400;
+  color: rgba(29, 42, 59, 0.8);
+}
+.hotelic-site-footer ul li a:hover {
+  color: #F15D30;
+}
+.hotelic-site-footer ul li i {
+  color: #F15D30;
+  font-size: 18px;
+}
+.hotelic-site-footer .hotelic-widget-title {
+  font-size: 20px;
+  margin-bottom: 28px;
+  margin-top: 0px;
+}
+
+.widget_nav_menu ul {
+  padding: 0px;
+}
+.widget_nav_menu ul li {
+  list-style: none;
+  display: flex;
+  align-items: center;
+  column-gap: 15px;
+  margin: 9px 0px;
+}
+.widget_nav_menu ul li a {
+  text-decoration: none;
+  font-weight: 400;
+  color: rgba(29, 42, 59, 0.8);
+}
+.widget_nav_menu ul li a:hover {
+  color: #F15D30;
+}
+.widget_nav_menu ul li i {
+  color: #F15D30;
+  font-size: 18px;
+}
+
+.tf-instagram-posts {
+  display: flex;
+  flex-wrap: wrap;
+  row-gap: 10px;
+  column-gap: 10px;
+}
+.tf-instagram-posts .insta--single-post {
+  flex-basis: 30.33%;
+}
+
+.hotelic-footer-social-link ul {
+  column-gap: 15px;
+  row-gap: 10px;
+}
+.hotelic-footer-social-link ul li a {
+  height: 24px;
+  width: 24px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  background-color: #F15D30;
+}
+.hotelic-footer-social-link ul li a i {
+  color: #fff;
+  font-size: 12px;
+}
+
+.hotelic-footer-copyright .hotelic-copyrgith-inner {
+  border-top: 1px solid rgba(29, 42, 59, 0.3);
+  padding: 15px 0px;
+}
+.hotelic-footer-copyright .hotelic-copyrgith-inner p {
+  margin: 0px;
+}
+
+
+.tf-page-header .woo-page-header h1.entry-title {
+  color: #333;
+}
+
+.tf-page-header .woo-page-header p {
+  color: #333;
+}
+
+.woocommerce_check {
+  padding: 80px 0px !important;
+}
+
+.woocommerce {
+  position: relative;
+}
+.woocommerce ::placeholder {
+  color: #8997A9 !important;
+}
+.woocommerce form.checkout.woocommerce-checkout {
+  display: flex;
+  column-gap: 40px;
+}
+.woocommerce div#order_review {
+  flex-basis: 40%;
+  padding-top: 80px;
+}
+.woocommerce h3#order_review_heading {
+  position: absolute;
+  left: calc(67% - 62px);
+}
+.woocommerce div#customer_details {
+  flex-basis: 60%;
+}
+.woocommerce .col2-set .col-2, .woocommerce .woocommerce-page .col2-set .col-2 {
+  float: inherit;
+  width: 100%;
+}
+.woocommerce .col2-set .col-1, .woocommerce .woocommerce-page .col2-set .col-1 {
+  float: left;
+  width: 100%;
+}
+.woocommerce form .form-row label {
+  line-height: 2;
+  font-size: 15px;
+  color: #363E4A;
+  font-weight: 500;
+}
+.woocommerce .select2-container .select2-selection--single {
+  padding: 9px 12px;
+  height: 45px;
+  margin: 0 0 0px;
+}
+.woocommerce form .form-row input.input-text, .woocommerce form .form-row textarea {
+  padding: 12px 16px;
+}
+
+.woocommerce-checkout .tft-site-navigation ul li a {
+  color: #000000;
+}
+
+.hotelic-customizer-typography .woocommerce-checkout-review-order dl.variation {
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+  gap: 6px;
+  align-items: center;
+}
+.hotelic-customizer-typography .woocommerce-checkout-review-order dl.variation > * {
+  width: calc(50% - 5px);
+}
+.hotelic-customizer-typography .woocommerce ul.order_details {
+  padding: 0;
+  display: flex;
+  justify-content: flex-start;
+  gap: 20px;
+}
+.hotelic-customizer-typography .woocommerce ul.order_details li {
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+  align-items: flex-start;
+  margin: 0;
+}
+.hotelic-customizer-typography .woocommerce-order-details ul.wc-item-meta {
+  display: flex;
+  flex-direction: column;
+  gap: 16px;
+  margin: 0;
+  padding: 0;
+  margin-top: 10px;
+}
+.hotelic-customizer-typography .woocommerce-order-details ul.wc-item-meta li {
+  display: flex;
+  align-items: center;
+}
+
+.hotelic-site-content .hotelic-container,
+.hotelic-site-content .hotelic-kit-container {
+  display: flex;
+  column-gap: 40px;
+  justify-content: center;
+  flex-direction: row;
+  flex-wrap: wrap;
+}
+.hotelic-site-content .hotelic-container .primary,
+.hotelic-site-content .hotelic-kit-container .primary {
+  width: calc(100% - 400px);
+}
+.hotelic-site-content .hotelic-left-sidebar {
+  flex-direction: row-reverse;
+}
+.hotelic-site-content .hotelic-no-sidebar .primary {
+  width: 100%;
+}
+
+.hotelic-single-page header.entry-header h1 {
+  font-size: 48px;
+  color: #1D2A3B;
+  font-weight: 500;
+}
+.hotelic-single-page header.entry-header a {
+  text-decoration: none;
+  color: #1D2A3B !important;
+}
+.hotelic-single-page span.cat-links a {
+  text-decoration: none;
+}
+.hotelic-single-page span.comments-link a {
+  text-decoration: none;
+}
+.hotelic-single-page span.posted-on a {
+  text-decoration: none;
+}
+.hotelic-single-page p {
+  color: #4A5562;
+}
+.hotelic-single-page main article {
+  padding: 20px 20px;
+  background: #fff;
+  border: 1px solid #f4f4f4;
+  border-radius: 8px;
+}
+
+aside#secondary {
+  width: 360px;
+}
+aside#secondary h2 {
+  font-size: 32px;
+  color: #1D2A3B;
+  font-weight: 600;
+}
+aside#secondary li {
+  list-style: none;
+  text-decoration: none;
+}
+aside#secondary a {
+  text-decoration: none;
+}
+aside#secondary ol.wp-block-latest-comments {
+  padding: 0;
+}
+aside#secondary ul.wp-block-archives-list.wp-block-archives {
+  padding: 0;
+}
+aside#secondary article {
+  margin-bottom: 20px !important;
+}
+
+.hotelic-sidebar h2 {
+  font-size: 20px !important;
+  color: #1D2A3B;
+  font-weight: 600;
+}
+
+.hotelic-single-post h1.entry-title {
+  font-size: 32px;
+  font-weight: 500;
+}
+.hotelic-single-post h2.comments-title {
+  font-size: 32px;
+  font-weight: 500;
+}
+
+.comment-author.vcard {
+  margin-bottom: 10px;
+  display: flex;
+  gap: 2px;
+}
+
+.comment-metadata {
+  margin-bottom: 20px;
+}
+
+.single .type-post {
+  background: #fff;
+  padding: 20px 20px;
+}
+
+.hotelic-entry-footer-meta a {
+  text-decoration: none;
+}
+
+.entry-content a {
+  text-decoration: none;
+}
+
+footer.entry-footer span.cat-links {
+  margin-right: 10px;
+}
+footer.entry-footer span.comments-link {
+  margin-right: 10px;
+}
+
+.hotelic-single-post {
+  margin-bottom: 40px;
+}
+.hotelic-single-post div#comments {
+  background: #fff;
+  padding: 10px 0px;
+}
+.hotelic-single-post a {
+  text-decoration: none;
+}
+.hotelic-single-post h2.entry-title a {
+  color: #1D2A3B !important;
+}
+.hotelic-single-post ol.comment-list {
+  list-style: none;
+  margin: 0;
+  padding: 0;
+}
+.hotelic-single-post #commentform input#submit{
+  cursor: pointer;
+}
+.hotelic-single-post ol.comment-list li {
+  margin-bottom: 40px;
+}
+.hotelic-single-post .comment-content a {
+  color: #800080;
+  text-decoration: underline;
+}
+
+.hotelic-404 .hotelic-container,
+.hotelic-404 .hotelic-kit-container {
+  display: block;
+  text-align: center;
+}
+.hotelic-404 .hotelic-container .primary ,
+.hotelic-404 .hotelic-kit-container .primary {
+  padding: 40px;
+  background: #fff;
+  margin: auto;
+}
+
+footer.wp-block-latest-comments__comment-meta {
+  color: #1D2A3B;
+}
+
+.entry-meta {
+  margin-bottom: 10px;
+}
+
+article h2.entry-title {
+  font-size: 24px;
+  font-weight: 600;
+  color: #1D2A3B;
+}
+article .post-thumbnail img {
+  border-radius: 8px;
+}
+article a.post-thumbnail {
+  margin-bottom: 5px;
+  color: #1D2A3B;
+}
+article i {
+  color: #F15D30;
+}
+article p {
+  color: #1D2A3B;
+}
+
+.hotelic-body-class .comment-respond #commentform {
+  display: block !important;
+}
+
+.tf-page-header {
+  margin-bottom: 60px;
+}
+.tf-page-header .tf-page-header-inner {
+  padding: 170px 0px;
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: center center;
+  text-align: center;
+  position: relative;
+  z-index: 1;
+}
+.tf-page-header .tf-page-header-inner:after {
+  position: absolute;
+  content: "";
+  height: 100%;
+  width: 100%;
+  background: #000;
+  opacity: 0.3;
+  left: 0;
+  top: 0;
+  z-index: -1;
+}
+.tf-page-header .tf-page-header-inner h1.entry-title {
+  color: #fff;
+  margin: 0;
+}
+.tf-page-header .tf-page-header-inner p {
+  color: #fff;
+}
+
+.hotelic-page-banner.blog h1 {
+  color: #fff;
+  margin: 0;
+}
+
+header.page-header h1.page-title {
+  font-size: 42px;
+  margin: 0;
+}
+
+.hotelic-single-post a.post-thumbnail {
+  display: block;
+  width: 100%;
+}
+.hotelic-single-post a.post-thumbnail img {
+  width: 100%;
+  height: 100%;
+}
+.hotelic-single-post article {
+  margin-bottom: 40px !important;
+}
+
+.hotelic-entry-footer-meta span {
+  color: #1d2a3b;
+}
+.hotelic-entry-footer-meta .entry-meta {
+  margin-bottom: 0px;
+}
+
+.hotelic-pagination {
+  padding: 40px 0px;
+}
+.hotelic-pagination .nav-links > a {
+  color: #EA580B;
+  font-weight: 600;
+  padding: 7px 11px;
+  font-size: 16px;
+  text-decoration: none;
+  border-radius: 8px;
+  transition: .3s all ease;
+}
+.hotelic-pagination .nav-links > a:hover {
+  background: #FEE7CD;
+  border-radius: 8px;
+  padding: 6px 11px;
+}
+.hotelic-pagination .page-numbers.current {
+  background: #EA580B;
+  color: #fff;
+  border-radius: 8px;
+  padding: 5px 11px;
+}
+
+.hotelic-404-container .hotelic-404-body {
+  padding: 40px 0px;
+}
+.hotelic-404-container .hotelic-404-head p {
+  font-size: 18px;
+  margin-bottom: 20px;
+}
+.hotelic-404-container .hotelic-404-head h2 {
+  margin-bottom: 20px;
+}
+.tf-aq-outer{
+  box-sizing: border-box;
+}
+.hotelic-tags-single-posts {
+  margin-bottom: 40px;
+}
+.hotelic-tags-single-posts .hotelic-tags a {
+  font-size: 14px;
+  color: #9696A0;
+  font-weight: 700;
+}
+
+.hotelic-blog-header {
+  width: 100%;
+}
+
+.tf-page-header .woo-page-header h1.entry-title {
+  font-style: normal;
+  font-weight: 700;
+  font-size: 72px;
+  line-height: 80px;
+  text-align: center;
+  letter-spacing: -0.5px;
+  color: #363E4A;
+}
+
+.tf-page-header .woo-page-header p {
+  color: #333;
+}
+
+.hotelic-sidebar .wp-block-categories li {
+	display: flex;
+	font-size: 18px;
+	align-items: baseline;
+	border-bottom: 2px dotted #f4f4f4;
+}
+
+.hotelic-sidebar .wp-block-categories li a {
+	padding-right: 10px;
+	border-bottom: unset !important;
+}
+
+.hotelic-sidebar .wp-block-image img {
+	border-radius: 4px;
+}
+
+.hotelic-sidebar .wp-block-social-links .wp-social-link {
+	border-radius: 4px;
+}
+
+.hotelic-sidebar .wp-block-social-links .wp-social-link a {
+	margin-bottom: unset;
+}
+
+.tft-footer-section .wp-block-image {
+	margin: 0em 0em 1em 0em;
+}
+
+.tft-footer-section .hotelic-footer-widget-payments {
+	gap: 16px !important;
+}
+.tft-footer-section .hotelic-footer-widget-payments .wp-block-image {
+	margin-bottom: 8px;
+}
+.tft-footer-section .wp-block-image img {
+	border-radius: 4px;
+}
+
+.hotelic-site-footer .menu-support-container li {
+	margin: 0px
+}
+
+.hotelic-footer-social-link ul li a:hover {
+	background-color: #D83B0B !important;
+	transform: scale(1.1);
+}
+.hotelic-main-header-wrapper .tft-site-navigation ul .sub-menu {
+	border-radius: 4px;
+}
+.hotelic-site-footer .hotelic-widget-title {
+	color: #1D2A3B;
+}
+
+/* Sunvi */
+
+.tft-footer-section .wp-block-gallery .wp-block-image img {
+	height: 24px !important;
+	width: 35px !important;
+}
+
+.tft-footer-section .wp-block-gallery .wp-block-image.hotelic-footer-instagram-image img {
+  height: unset !important;
+  width: 100% !important;
+}
+.tft-footer-section .wp-block-gallery {
+/* 	width: 90%; */
+	flex-wrap: nowrap;
+	gap: 16px !important;
+}
+
+.tft-footer-section .wp-block-gallery figure {
+	margin: 0;
+}
+
+.tf-template-3 .tf-policies-wrapper .tf-policies table {
+	border: 0px;
+}
+
+.tf-template-3 .tf-policies-wrapper .tf-policies table td {
+	background: #fdf9f3;
+	padding: 16px;
+	border: 4px solid #fcf4e8;
+	line-height: 1.5;
+}
+
+/* Sunvi - End */
+
+/* Blog */
+.hotelic-theme-bg, .hotelic-footer-social-link ul li a, .single-form-inner .hotelic-form-title, .tf-sidebar .wp-block-search__button, .hotelic-pagination .page-numbers.current, .hotelic-fields-subscriptions .wpcf7-submit, .hotelic-sidebar .wp-block-search__button, .wpcf7-form .wpcf7-submit {
+    background: #b58e52 !important;
+}
+p.wp-block-tag-cloud a.tag-cloud-link {
+    background-color: #b58e52;
+}
+.hotelic-footer-contact ul li i, .hotelic-search-box .hotelic-tour-serach-fields-wrap .tf_input-inner *, .hotelic-tour-serach-fields-wrap .tf_input-inner, .hotelic-hero-slider-selector .slider__counter, .hotelic-meta-info i, .hotelic-single-tour-info .important-single-info i, article i, .hotelic-pagination .nav-links>a, .tft-site-navigation ul li a:hover, .hotelic-header-search a:hover, .widget_nav_menu ul li a:hover, .hotelic-destination-wrapper .hotelic-destination-details ul li a:hover {
+    color: #b58e52 !important;
+}
+.single-post .hotelic-single-post {
+    margin-top: 56px;
+}
+ul.wp-block-categories-list.wp-block-categories a {
+    margin-bottom: 0;
+}
+article .post-thumbnail img {
+    border-radius: 8px;
+    width: 100%;
+    height: 420px;
+    object-fit: cover;
+}
+
+.tf_booking-dates .tf-label {
+	color: black;
+}
+
+.hotelic-single-post h1, .hotelic-single-post h2, .hotelic-single-post h3, .hotelic-single-post h4, .hotelic-single-post h5, .hotelic-single-post h6, .hotelic-single-post li {
+    color: #595349;
+}
+
+.hotelic-single-post p,  .hotelic-single-page p, .hotelic-single-post a, .hotelic-right-sidebar a {
+    color: #99948D;
+}
+
+/* Hotelic Archive Page Style */
+.hotelic-single-page.hotelic-blog-archive .hotelic-container{
+  padding: 0px;
+}
+.hotelic-single-page.hotelic-blog-archive #tf-site-content{
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  gap: 20px;
+}
+.hotelic-single-page.hotelic-blog-archive #tf-site-content article{
+  width: 100%;
+  display: flex;
+  flex-direction: column;
+  margin: 0;
+}
+.hotelic-single-page.hotelic-blog-archive #tf-site-content article .entry-header a{
+  margin: 0px;
+}
+.hotelic-single-page.hotelic-blog-archive #tf-site-content article .entry-header a h2{
+  margin-bottom: 10px;
+}
+.hotelic-single-page.hotelic-blog-archive #tf-site-content article .entry-content{
+  margin: 0px 0px 10px 0px;
+}
+.hotelic-single-page.hotelic-blog-archive #tf-site-content article .entry-content p{
+  margin: 0px;
+}
+.hotelic-single-page.hotelic-blog-archive #tf-site-content article .entry-footer{
+  margin-top: auto;
+}
+.hotelic-single-page.hotelic-blog-archive #tf-site-content article .post-thumbnail img{
+  max-height: 260px;
+}
+
+
+@media only screen and (max-width: 767px) {
+  h1 {
+    font-size: 32px;
+  }
+  h2 {
+    font-size: 24px;
+  }
+  h3 {
+    font-size: 20px;
+  }
+  .title.section-title {
+    font-size: 32px;
+  }
+  .hotelic-slide-default button.slick-arrow {
+    background: #F15D30;
+    height: 36px;
+    width: 36px;
+    color: #fff;
+    font-size: 16px;
+  }
+  .hotelic-fields-subscriptions .wpcf7-submit {
+    padding: 16px 12px;
+  }
+  .hotelic-site-content .hotelic-container,
+  .hotelic-site-content .hotelic-kit-container {
+    flex-wrap: wrap;
+  }
+  .hotelic-single-page main article {
+    padding: 22px;
+  }
+  aside#secondary h2 {
+    font-size: 24px;
+  }
+  .hotelic-single-page header.entry-header h1 {
+    font-size: 32px;
+  }
+  .hotelic-single-post h2.comments-title {
+    font-size: 24px;
+  }
+  .hotelic-single-post div#comments {
+    padding: 20px;
+  }
+  .single .type-post {
+    padding: 20px;
+  }
+  .hotelic-single-post .primary {
+    margin-bottom: 40px;
+  }
+  h1.page-title {
+    font-size: 32px;
+  }
+  .hotelic-main-header-wrapper .site--brand-logo {
+    padding: 0 0;
+  }
+  .tft-grid-clmn-4 {
+    grid-template-columns: repeat(1, 1fr);
+  }
+  .tft-footer-section {
+    margin-bottom: 35px;
+  }
+  .hotelic-search-box {
+    position: relative;
+  }
+  .hotelic-search-box .hotelic-search-box-container {
+    display: block;
+  }
+  .hotelic-search-box .hotelic-search-box-inner {
+    padding: 20px;
+    width: 100%;
+  }
+  .hotelic-search-box .tf_homepage-booking {
+    height: auto;
+    flex-direction: column;
+    row-gap: 16px;
+  }
+  .hotelic-search-box .tf_selectperson-wrap {
+    width: 100% !important;
+  }
+  .hotelic-search-box .tf_destination-wrap {
+    padding: 0px !important;
+  }
+  .hotelic-search-box .tf_selectperson-wrap {
+    padding: 0px !important;
+  }
+  .hotelic-search-box .tf_selectdate-wrap, .hotelic-search-box .tf_selectperson-wrap {
+    padding: 0px !important;
+  }
+  .hotelic-tour-single-wrapper .hotelic-tour-single-details-head {
+    flex-direction: column;
+  }
+  .hotelic-tour-single-wrapper .hotelic-tour-discriptions {
+    flex-direction: column;
+  }
+  .hotelic_single_tour_info .important_single_info {
+    flex-basis: 50%;
+  }
+  .hotelic-accordion .hotelic-accordion-details-inner {
+    flex-direction: column;
+  }
+  .hotelic-single-tour-info .important-single-info {
+    flex-basis: 50%;
+  }
+  .hotelic-sidebar-widget .post_img {
+    flex-basis: 100%;
+    height: auto;
+  }
+  .hotelic_single_tour_info {
+    flex-direction: row;
+  }
+  .hotelic-tour-single-wrapper .hotelic-tour-singel-details {
+    order: 2;
+  }
+  .hotelic-tour-single-wrapper .tf_selectperson-wrap {
+    padding: 0px !important;
+  }
+  .hotelic-tour-single-wrapper .single-tour-form {
+    margin-bottom: 40px;
+  }
+  .hotelic_single_booking form.tf_tours_booking {
+    display: block;
+    padding: 20px 20px;
+  }
+  .hotelic_single_booking .tours-check-in-out {
+    border: none;
+    background: transparent;
+  }
+  .hotelic-tour-discriptions h1 {
+    font-size: 32px;
+    margin-bottom: 10px;
+  }
+  .hotelic_pricing_details {
+    margin-bottom: 20px;
+  }
+  .hotelic_pricing_details .tf-price {
+    justify-content: left;
+  }
+  .hotelic_pricing_details .tf-hero-bottom-content {
+    padding: 0px 0 0 0;
+  }
+  .woocommerce form.checkout.woocommerce-checkout {
+    flex-wrap: wrap;
+  }
+  .woocommerce div#customer_details {
+    flex-basis: 100%;
+  }
+  .woocommerce div#order_review {
+    flex-basis: 100%;
+    padding: 0;
+  }
+  .woocommerce h3#order_review_heading {
+    position: relative;
+    left: 0;
+  }
+  .tft-tour-search-form .tf_booking-widget .tf_homepage-booking {
+    align-items: stretch;
+  }
+  .tft-tour-search-form .tf_booking-widget .tf_homepage-booking > div {
+    width: 100%;
+  }
+  .tft-tour-search-form .tf_booking-widget .tf_homepage-booking > div:nth-child(2) {
+    width: 100% !important;
+  }
+  .tf-page-header .woo-page-header h1.entry-title {
+    font-size: 48px;
+  }
+  .hotelic-single-page.hotelic-blog-archive #tf-site-content{
+    grid-template-columns: 1fr;
+  }
+}
+@media only screen and (max-width: 560px) {
+  .hotelic_team_wrapper .hotelic-single-member img.member-image {
+    width: 100%;
+  }
+  .hotelic_team_wrapper .hotelic-single-member {
+    display: flex;
+    flex-direction: column;
+    padding: 20px;
+  }
+  .hotelic_team_wrapper .hotelic-single-member .hotelic-member-details {
+    width: 100%;
+    padding: 0;
+  }
+}
+@media (min-width: 768px) {
+  input#submit {
+    padding: 14px 22px;
+  }
+}
+@media (min-width: 992px) {
+  .tft-header-mobile {
+    display: none;
+  }
+  .tft-site-navigation ul.sub-menu {
+    width: 240px;
+    background: #fff;
+    left: -999em;
+    position: absolute;
+    top: 100%;
+    z-index: 99999;
+    box-shadow: 0 4px 10px -2px rgba(0, 0, 0, 0.1);
+    padding: 10px 0px;
+  }
+  .tft-header-desktop .tft-site-navigation ul.sub-menu.show {
+    left: 0;
+    right: auto;
+  }
+  .tft-header-desktop .tft-site-navigation ul.sub-menu.show ul.show {
+    left: 100%;
+    top: -2px;
+  }
+  .tft-header-desktop .tft-site-navigation li.menu-item:hover > .sub-menu {
+    left: 0;
+    right: auto;
+  }
+  .tft-header-desktop .tft-site-navigation .sub-menu .menu-item:hover > .sub-menu {
+    left: 100%;
+    right: auto;
+    top: -2px;
+  }
+  .tft-site-navigation ul li a {
+    display: block !important;
+    padding: 0px 18px !important;
+  }
+  .tft-site-navigation .menu-item {
+    padding: 4px 0px;
+  }
+}
+@media (max-width: 991px) {
+  .tft-header-desktop {
+    display: none;
+  }
+  .primary {
+    width: 100% !important;
+  }
+  aside#secondary {
+    width: 100%;
+    padding: 0px 20px;
+  }
+  .tft-header-mobile .tft-mobile_menubar i {
+    font-size: 22px;
+    color: #f15d30;
+  }
+  .tft-header-mobile .tft-menubar-close {
+    display: none;
+  }
+  .tft-header-mobile .hotelic-mobile-menu-icon .tft-menubar-active {
+    display: none;
+  }
+  .tft-header-mobile .hotelic-mobile-menu-icon .tft-menubar-close {
+    display: block;
+  }
+  .tft-header-mobile .tft-site-navigation ul {
+    flex-direction: column;
+    padding: 20px 0px;
+  }
+  .tft-header-mobile .tft-site-navigation ul li a {
+    color: #1D2A3B;
+    padding: 12px;
+  }
+  .tft-header-mobile .tft-mobile-main-menu {
+    position: relative;
+  }
+  .tft-header-mobile .tft-mobile-main-menu.hotelic-active-mobile {
+    display: block;
+  }
+  .tft-header-mobile .tft-mobile-main-menu {
+    display: none;
+  }
+  .tft-header-mobile nav.tft-site-navigation {
+    position: absolute;
+    width: 100%;
+    background: #e0f0ff;
+    z-index: 9999;
+    left: 0;
+    padding: 20px 0px;
+  }
+  .hotelic-header-inner .tft-header-mobile .tft-mobile-main-menu nav {
+    border-radius: 4px;
+  }
+  .tft-header-mobile .tft-site-navigation .page_item_has_children > a:after {
+    display: none;
+  }
+  .tft-header-mobile .tft-site-navigation ul {
+    position: unset !important;
+    top: 0 !important;
+  }
+  .tft-header-mobile .tft-site-navigation ul ul {
+    display: none;
+    border-top: 1px solid #fafafa;
+  }
+  .tft-header-mobile .tft-site-navigation ul li {
+    border-bottom: 1px solid #fafafa;
+    position: relative;
+  }
+  .tft-header-mobile .tft-site-navigation ul li a {
+    display: block;
+    width: 100%;
+  }
+  .tft-header-mobile .tft-site-navigation ul li:last-child {
+    border: none;
+  }
+  .tft-header-mobile .tft-site-navigation ul li .hotelic-dropdown{
+    display: flex;
+    justify-content: space-between;
+  }
+  .tft-header-mobile .tft-site-navigation ul li .hotelic-dropdown button{
+    width: 50px;
+    background-color: transparent;
+    border: 0px solid;
+    cursor: pointer;
+  }
+  .tft-header-mobile .tft-site-navigation ul li .hotelic-dropdown .toggle.active i {
+    transform: rotate(-180deg);
+  }
+  .tft-header-mobile .tft-site-navigation ul li i {
+    font-size: 20px;
+  }
+  .tft-header-mobile .tft-site-navigation ul .menu-item-has-children > a:after {
+    display: none;
+  }
+  .tft-header-mobile .tft-site-navigation .page_item_has_children ul.children {
+    position: unset !important;
+    width: unset;
+    padding: 0 0 0px 20px !important;
+    background: unset;
+    box-shadow: unset;
+  }
+  .tft-header-mobile .tft-site-navigation ul {
+    padding: 0px !important;
+  }
+  .tft-header-mobile .tft-site-navigation ul li a {
+    color: #1d2a3b;
+    padding: 7px 20px !important;
+  }
+  .tft-header-mobile li.menu-item-has-children > ul {
+    padding-left: 15px !important;
+    display: none;
+  }
+  .tft-header-mobile .hotelic-expended-menu > ul {
+    display: block !important;
+  }
+
+  .hotelic-single-page.hotelic-blog-archive #tf-site-content{
+    padding: 0px 20px;
+  }
+}
+
+@media only screen and (min-width: 768px) and (max-width: 1024px) {
+  .hotelic-search-box {
+    position: relative;
+    max-width: 100%;
+  }
+  .hotelic-search-box .hotelic-search-box-inner {
+    width: 100%;
+  }
+  .hotelic-search-box .hotelic-search-box-container {
+    column-gap: 10px;
+  }
+}
+@media(max-width:1280px) {
+  .hotelic-container,
+  .hotelic-kit-container {
+    max-width: 100%;
+    width: auto !important;
+  }
+  .hotelic-site-footer .hotelic-footer-inner{
+    padding-left: 12px;
+    padding-right: 12px;
+  }
+}
+
+@media(max-width:767px) {
+  .hotelic-container,
+  .hotelic-kit-container {
+    max-width: 100%;
+    width: auto !important;
+  }
+}
+
+/*# sourceMappingURL=style.css.map */
